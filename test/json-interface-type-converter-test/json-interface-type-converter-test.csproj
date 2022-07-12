@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\json-interface-type-converter\json-interface-type-converter.csproj" />
+  </ItemGroup>
+
 </Project>
